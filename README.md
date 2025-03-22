@@ -3,7 +3,7 @@
 ### 🏆 Introduction
 Luma is a modern, user-friendly e-commerce platform where tech enthusiasts can seamlessly browse, search, and purchase the latest workout clothes and equipment. Luma offers a smooth and secure shopping experience.
 
-This test includes essential features such as:
+This test covers essential features such as:
 - 🔐 **User Registration & Secure Login**
 - 📦 **Order Management & Seamless Checkout Process**
 - 🛒 **Effortless Shopping Experience**
