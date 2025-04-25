@@ -1,44 +1,44 @@
-# Luma - Manual & Automation Testing 🚀
+# Luma - Manual & Automation Testing 
 
-### 🏆 Introduction
+### Introduction
 Luma is a modern, user-friendly e-commerce platform where tech enthusiasts can seamlessly browse, search, and purchase the latest workout clothes and equipment. Luma offers a smooth and secure shopping experience.
 
 This test covers essential features such as:
-- 🔐 **User Registration & Secure Login**
-- 📦 **Order Management & Seamless Checkout Process**
-- 🛒 **Effortless Shopping Experience**
+-  **User Registration & Secure Login**
+-  **Order Management & Seamless Checkout Process**
+-  **Effortless Shopping Experience**
 
-This test plan outlines the **manual and automation testing** strategy to ensure that all functionalities operate as intended, providing a **user-friendly** and **high-performance** experience across various devices and browsers. 🌍📱💻
+This test plan outlines the **manual and automation testing** strategy to ensure that all functionalities operate as intended, providing a **user-friendly** and **high-performance** experience across various devices and browsers. 
 
 ---
 
-## 🔬 Project Type
-This project incorporates both **manual and automation testing** using **Selenium**. We leverage the **Page Object Model (POM)** to structure our Selenium automation tests, enhancing **maintainability and reusability**. 🏗️
+## Project Type
+This project incorporates both **manual and automation testing** using **Selenium**. We leverage the **Page Object Model (POM)** to structure our Selenium automation tests, enhancing **maintainability and reusability**. 
 
 ### Our Testing Strategy Covers:
-✅ **Functionality** - Ensuring core features work correctly 🏗️ </br>
-✅ **Usability** - Checking ease of use and user experience 🎨</br>
-✅ **Compatibility** - Validating performance across different browsers and devices 🌐
+✅ **Functionality** - Ensuring core features work correctly  </br>
+✅ **Usability** - Checking ease of use and user experience </br>
+✅ **Compatibility** - Validating performance across different browsers and devices 
 </br>
 Additionally, we implement **BDD Cucumber** to provide **clear and concise test specifications**, ensuring an efficient and effective testing process. 
 
 ---
 
-## 🌐 Application Under Test
-🔗 Access the website here: [**Luma Website**](https://magento.softwaretestingboard.com/)
+##  Application Under Test
+Access the website here: [**Luma Website**](https://magento.softwaretestingboard.com/)
 
 ---
 
-## 🛠️ Usage Guide
-This project is designed for **testers and developers** to ensure the **quality and performance** of the Luma website. 🏗️🧪
+##  Usage Guide
+This project is designed for **testers and developers** to ensure the **quality and performance** of the Luma website. 
 
-- **View Test Reports** 📊 - Generate and analyze results
-- **Identify & Log Bugs** 🐞 - Track defects using the bug report document
-- **Extend Test Cases** 🏗️ - Add new test cases following the **POM structure**
+- **View Test Reports** - Generate and analyze results
+- **Identify & Log Bugs** - Track defects using the bug report document
+- **Extend Test Cases** - Add new test cases following the **POM structure**
 
 ---
 
-## 📂 Directory Structure
+## Directory Structure
 ```
 B43_SDET_005_UI-Testers-Elite
 │── src
@@ -80,7 +80,7 @@ B43_SDET_005_UI-Testers-Elite
 ```
 ---
 
-## 🏗️Tech Stack used in this Project
+## Tech Stack used in this Project
 
 <div style="display: flex; align-items: center;">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat" />
@@ -113,9 +113,9 @@ B43_SDET_005_UI-Testers-Elite
 ---
 
 ## 🎯 Conclusion
-The **Luma** automation testing project ensures a **high-quality, seamless, and secure e-commerce experience** for fitness enthusiasts. ✨
+The **Luma** automation testing project ensures a **high-quality, seamless, and secure e-commerce experience** for fitness enthusiasts. 
 
-By combining **manual and automation testing** with ** and POM**, we enhance the **efficiency, maintainability, and reliability** of our tests. 🚀✅
+By combining **manual and automation testing** with ** and POM**, we enhance the **efficiency, maintainability, and reliability** of our tests. 
 
 ---
 
